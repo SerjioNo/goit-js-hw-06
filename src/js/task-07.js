@@ -1,4 +1,5 @@
 
+
 const inputRange = document.querySelector("#font-size-control");
 const textEl = document.querySelector("#text");
 

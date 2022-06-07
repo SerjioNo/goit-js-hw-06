@@ -1,3 +1,4 @@
+
 const ingredients = [
   'Potatoes',
   'Mushrooms',
@@ -19,3 +20,4 @@ return navItemEl;
 const navEl = document.querySelector('#ingredients');
 console.log(navEl);
 navEl.append(...elements);
+

@@ -1,3 +1,4 @@
+
 // Number of categories
 
 const ulCategories = document.querySelectorAll(".item").length;
@@ -12,3 +13,4 @@ listUl.forEach((item, index) => {
     console.log(`Category: ${item.querySelector(".item h2").textContent}`);
     console.log(`Elements: ${item.querySelectorAll(".item li").length}`);
 });
+
